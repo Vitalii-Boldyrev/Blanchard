@@ -1,0 +1,648 @@
+@media (max-width: 10000px) {
+
+  .contacts__btn-fill-576 {
+    display: none;
+  }
+
+}
+
+@media (max-width: 1650px) {
+
+  .container {
+    padding: 0 50px;
+  }
+
+
+  .events__list {
+    gap: 25px;
+  }
+
+  .events-bottom {
+    padding: 13px 30px 44px;
+    min-height: 500px;
+  }
+
+  .gallery__card:not(:last-child) {
+    margin-right: 25px;
+  }
+
+  .catalog__item picture {
+    display: flex;
+  }
+
+  .catalog__item {
+    display: flex;
+  }
+
+  .catalog__item img {
+    width: 650px;
+  }
+
+}
+
+
+
+@media (max-width: 1200px) {
+
+  .container {
+    padding: 0 50px;
+  }
+
+  .header__logo {
+    position: relative;
+    margin-bottom: 25px;
+  }
+
+  .header__btn {
+    position: absolute;
+    right: 50px;
+    top: 39px;
+  }
+
+  .header {
+    min-height: 147px;
+  }
+
+  .hero__content {
+    padding-top: 102px;
+    max-width: 647px;
+  }
+
+  .hero__title {
+    line-height: 86%;
+    margin-bottom: 19px;
+  }
+
+  .description {
+    line-height: 160%;
+    margin-bottom: 132px;
+  }
+
+  .hero {
+    background-image: url(../img/birmingham-museums1024.svg);
+    min-height: 621px;
+  }
+
+  .about-us__title {
+    margin-bottom: 15px;
+  }
+
+  .gallery {
+    background-image: url(../img/birmingham-museums-trust1024.svg);
+    padding-top: 83px;
+    min-height: 642px;
+  }
+
+  .gallery__list-left {
+    margin-bottom: 26px;
+  }
+
+  .gallery__list {
+    flex-direction: column;
+  }
+
+  .gallery__card:not(:last-child) {
+    margin-right: 50px;
+  }
+
+  .catalog__card {
+    flex-direction: column;
+  }
+
+  .catalog-right {
+    padding: 0;
+    padding-top: 32px;
+  }
+
+  .catalog__card:not(:last-child) {
+    margin-bottom: 48px;
+  }
+
+  .catalog__item img {
+    width: 100%;
+  }
+
+  .catalog__item-subtitle {
+    margin-bottom: 13px;
+  }
+
+  .events {
+    padding-top: 77px;
+  }
+
+  .events-bottom {
+    padding: 14px 34px 49px;
+    min-height: 483px;
+  }
+
+
+  .events-item__place:not(:first-child) {
+    margin-bottom: 8px;
+  }
+
+  .events-item__place {
+    margin-left: auto;
+  }
+
+  .events__list {
+    gap: 27px;
+  }
+
+  .projects {
+    padding-top: 79px;
+  }
+
+  .projects__description {
+    margin-bottom: 19px;
+  }
+
+  .projects__card-partners:not(:last-child) {
+    margin-right: 29px;
+  }
+
+  .contacts__adress {
+    margin-bottom: 17px;
+  }
+
+  .contacts__btn-fill {
+    font-size: 18px;
+    padding: 14px 49px;
+  }
+
+  .contacts__subtitle-form {
+    margin-bottom: 36px;
+    gap: 20px;
+  }
+
+
+  .main {
+    margin-bottom: 47px;
+  }
+
+  .footer__link {
+    width: 60px;
+    height: 60px;
+  }
+
+  .social__img {
+    width: 60px;
+    height: 60px;
+  }
+
+  .footer {
+    padding: 40px 0;
+  }
+
+  .footer__card {
+    align-items: center;
+  }
+
+  .footer-item {
+    height: 60px;
+    width: 60px;
+  }
+
+  .contacts__btn-fill-576 {
+    display: none;
+  }
+
+}
+
+@media (max-width: 1020px) {
+
+  .contacts__btn-fill {
+    padding: 13px 35px;
+  }
+
+}
+
+@media (max-width: 992px) {
+
+
+  .hero__content {
+    padding-top: 88px;
+    max-width: 621px;
+  }
+
+  .hero {
+    background-image: url(../img/birmingham-museums768.svg);
+  }
+
+  .hero__title {
+    font-size: 78px;
+  }
+
+  .gallery__card:not(:last-child) {
+    margin-right: 34px;
+  }
+
+  .gallery {
+    background-image: url(../img/birmingham-museums-trust768.svg);
+    padding-top: 83px;
+    min-height: 567px;
+  }
+
+  .catalog__descr {
+    line-height: 186%;
+    margin-bottom: 38px;
+  }
+
+  .catalog__item-subtitle {
+    margin-bottom: 11px;
+  }
+
+  .catalog__item-years {
+    margin-bottom: 6px;
+  }
+
+  .catalog__card:not(:last-child) {
+    margin-bottom: 54px;
+  }
+
+  .catalog-right {
+    padding-top: 30px;
+  }
+
+  .events {
+    padding-top: 80px;
+  }
+
+  .events__list {
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .events-item {
+    max-width: 100%;
+  }
+
+  .events-bottom {
+    min-height: 327px;
+  }
+
+  .events-item__title {
+    margin-bottom: 15px;
+  }
+
+
+  .events-item__descr {
+    font-size: 17px;
+    line-height: 182%;
+  }
+
+  .projects {
+    padding-top: 81px;
+  }
+
+  .projects__description {
+    margin-bottom: 24px;
+  }
+
+  .projects__title-partners {
+    margin-bottom: 28px;
+  }
+
+  .contacts__form-input {
+    min-width: 323px;
+  }
+
+  .contacts__subtitle-form {
+    flex-wrap: wrap;
+    margin-bottom: 33px;
+    padding-top: 6px;
+    gap: 12px;
+  }
+
+  .contacts__btn-fill {
+    padding: 13px 47px;
+  }
+
+  .contacts__btn-fill-576 {
+    display: none;
+  }
+
+}
+
+@media (max-width: 750px) {
+
+  .hero__title {
+    font-size: 65px;
+  }
+
+  .gallery__list-right {
+    flex-direction: column;
+  }
+
+
+  .gallery__card:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .contacts__btn-fill {
+    padding: 13px 40px;
+  }
+
+}
+
+
+
+@media (max-width: 576px) {
+
+  .container {
+    padding: 0 15px;
+  }
+
+  .header__nav {
+    margin: 0;
+    overflow-x: auto;
+  }
+
+  .nav__list {
+    flex-wrap: nowrap;
+    gap: 27px;
+  }
+
+  .header {
+    padding-top: 16px;
+    padding-bottom: 12px;
+    min-height: 78px;
+    max-height: 78px;
+  }
+
+  .header__logo {
+    margin-bottom: 7px;
+  }
+
+  .nav__link {
+    font-weight: 700;
+    font-size: 12px;
+  }
+
+  .header__img {
+    width: 18px;
+    height: 18px;
+  }
+
+  .header__btn {
+    right: 15px;
+    top: 18px;
+  }
+
+  .hero {
+    min-height: 310px;
+    max-height: 310px;
+    background-image: url(../img/birmingham-museums320.svg);
+  }
+
+  .hero__content {
+    display: flex;
+    flex-direction: column;
+    max-height: 310px;
+    padding-top: 51px;
+    align-items: center;
+  }
+
+  .hero__title {
+    font-size: 34px;
+    line-height: 87%;
+    text-align: center;
+    margin-bottom: 6px;
+  }
+
+  .description {
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 37px;
+    line-height: 130%;
+    padding: 0 19px;
+  }
+
+  .hero__link {
+    font-size: 12px;
+    text-align: center;
+    border-radius: 100px;
+    padding: 12px 20px;
+  }
+
+  .title {
+    font-weight: 400;
+    font-size: 28px;
+  }
+
+  .about-us__descr {
+    font-size: 15px;
+    line-height: 186%;
+  }
+
+  .about-us {
+    padding-top: 54px;
+    margin-bottom: 42px;
+  }
+
+  .gallery {
+    padding-top: 54px;
+    min-height: 1206px;
+    background-image: url(../img/birmingham-museums-trust320.svg);
+  }
+
+  .gallery__title {
+    margin-bottom: 13px;
+  }
+
+  .gallery__list-right {
+    flex-direction: column;
+  }
+
+  .gallery__card:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 24px;
+  }
+
+  .catalog {
+    padding-top: 54px;
+  }
+
+  .catalog__title {
+    margin-bottom: 17px;
+  }
+
+  .catalog__descr {
+    line-height: 188%;
+    margin-bottom: 28px;
+  }
+
+  .catalog-right {
+    padding-top: 21px;
+  }
+
+  .catalog__item-subtitle {
+    margin-bottom: 9px;
+  }
+
+  .catalog__item-years {
+    margin-bottom: 13px;
+  }
+
+  .catalog__item-descr {
+    line-height: 189%;
+  }
+
+  .catalog__card:not(:last-child) {
+    margin-bottom: 35px;
+  }
+
+  .events {
+    padding-top: 55px;
+  }
+
+  .events-bottom {
+    padding: 20px 23px 48px;
+    min-height: 483px;
+  }
+
+  .events__list {
+    gap: 20px;
+  }
+
+  .events__title {
+    margin-bottom: 12px;
+  }
+
+  .events-item__title {
+    margin-bottom: 8px;
+  }
+
+  .events-item__descr {
+    line-height: 190%;
+  }
+
+  .events-item__place:not(:first-child) {
+    margin-bottom: 15px;
+  }
+
+  .projects {
+    padding-top: 60px;
+  }
+
+  .projects__title {
+    margin-bottom: 14px;
+  }
+
+  .projects__title-partners {
+    font-size: 18px;
+    line-height: 178%;
+  }
+
+  .projects__description {
+    margin-bottom: 17px;
+  }
+
+  .projects__title-partners {
+    margin-bottom: 9px;
+  }
+
+  .projects__card-partners:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 8px;
+  }
+
+  .contacts__title {
+    font-size: 18px;
+    margin-bottom: 3px;
+  }
+
+  .contacts {
+    padding-top: 47px;
+  }
+
+  .contacts__descr {
+    font-size: 14px;
+  }
+
+  .contacts__form-input {
+    min-width: 291px;
+    min-height: 39px;
+    margin-bottom: 16px;
+  }
+
+  .contacts__btn-fill {
+    display: none;
+  }
+
+  .contacts__subtitle-form {
+    gap: 6px;
+    margin-bottom: 28px;
+    flex-direction: column;
+  }
+
+  .contacts__description {
+    flex-direction: column;
+  }
+
+  .contacts__adress {
+    margin-bottom: 5px;
+  }
+
+  .contacts__btn-fill-576 {
+    display: block;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 100px;
+    padding: 12px 35px;
+    height: 40px;
+    border: 2px solid var(--color-amethyst);
+    color: var(--color-amethyst);
+    transition: outline-color 0.4s;
+  }
+
+  .social__link {
+    width: 50px;
+    height: 50px;
+  }
+
+  .social__img-contacts {
+    width: 50px;
+    height: 50px;
+  }
+
+  .item-img {
+    width: 50px;
+    height: 50px;
+  }
+
+
+  .title-social {
+    margin-bottom: 10px;
+  }
+
+  .main {
+    margin-bottom: 53px;
+  }
+
+  .footer__card {
+    flex-direction: column-reverse;
+    gap: 20px;
+  }
+
+  .footer-item {
+    width: 50px;
+    height: 50px;
+  }
+
+  .footer__link {
+    width: 50px;
+    height: 50px;
+  }
+
+  .social__img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .footer {
+    padding: 23px 0;
+  }
+}
